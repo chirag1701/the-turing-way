@@ -147,7 +147,7 @@ This spectrum is something of an oversimplification, and there are some extensio
 
 
 (rr-licensing-floss)=
-## What is 'Free/Libre' or 'Open Source' software?
+## What is 'Free/Libre' [{term}def<Free or Libre Software>] or 'Open Source' software?
 
 These same concepts developed originally in the context of software have often been applied to other creative outputs.
 Consequently, they are among the most developed and useful context for understanding the licensing of other things.
