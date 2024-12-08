@@ -328,7 +328,7 @@ In a large community developed project, this would require the consent of all co
 To get around this, some copyleft projects developed by companies that commercially license proprietary extensions to these projects ask their contributors to sign contributor license agreements (CLAs) which may assign the contributor's copyright to the company, or include other provisions so that they can legally dual-license the project.
 
 (rr-licensing-edge-available)=
-#### 'Source Available' or 'Shared Source'
+#### 'Source Available' [{term}def<Source Available>] or 'Shared Source'
 
 Under a proprietary license the code is generally not made public.
 Some projects share their code but do not license its re-use, modification or redistribution.
